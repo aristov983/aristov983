@@ -6,12 +6,12 @@
 <p align="left"> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1" target="blank"><img src="https://img.shields.io/badge/let%20me%20cook-8A2BE2" alt="" /></a> </p>
 
 🌱 Software engineer student at [Universidad Católica del Uruguay](https://www.ucu.edu.uy/).
-<img align="right" alt="Heart" width="455" src="source/DanteHeart.gif">
+<img align="right" alt="Heart" width="400" src="source/DanteHeart.gif">
 
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://skillicons.dev"> <img width="500" src="https://skillicons.dev/icons?i=windows,linux,py,cs,ts,html,css,angular,docker,rider,vscode"> </a> </p>
+<p align="left"> <a href="https://skillicons.dev"> <img width="400" src="https://skillicons.dev/icons?i=windows,linux,py,cs,ts,html,css,angular,docker,rider,vscode"> </a> </p>
 
 <br clear="both" />
 <hr style="width:100%; height:2px; background-color:#444; border:none;" />
