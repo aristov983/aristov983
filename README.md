@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1" target="blank"><img src="https://img.shields.io/badge/let%20me%20cook-8A2BE2" alt="" /></a> </p>
 
-🌱 Software engineer student at [Universidad Católica del Uruguay](https://www.ucu.edu.uy/).
+### 🌱 Software engineer student at [Universidad Católica del Uruguay](https://www.ucu.edu.uy/).
+### 🧠 Currently learning web & mobile development and databases.
 <img align="right" alt="Heart" width="400" src="source/DanteHeart.gif">
 
 
